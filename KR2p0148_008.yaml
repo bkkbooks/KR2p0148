@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0148/chant/v1/juan/8
+seq: 8
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 第八章善建者不拔善抱者不脫子孫以其祭祀不輟修之身其德乃真修之家其德有餘修之鄉其德乃長修之邦其德乃豐修之天下其德乃博以身觀身以家觀家以鄉觀鄉以邦觀邦以天下觀天下吾何以知天下之然哉以此
+  hash: sha256:2cd5e2e5cd76315e0a3202694deae276877bf3e9ee52282cad835b6e3058f229
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0148_CHANT_008-1a.1-h}
+metadata:
+  title: 老子乙本
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0148.xml
+hash: sha256:5caf1ee024e6fafb6055345b22cb292d66a4495f122dd1e9f127c040c33a2338

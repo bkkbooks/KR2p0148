@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0148/chant/v1/juan/3
+seq: 3
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 第三章絕學亡憂唯與訶相去幾何美與惡相去何若人之所畏亦不可以不畏人
+  hash: sha256:159c5ad0b91762432700179c0581d9851116b8ddaf73d37b03b862ca6a3d7274
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0148_CHANT_003-1a.1-h}
+metadata:
+  title: 老子乙本
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0148.xml
+hash: sha256:91b2c4e826f80babef58ef5d2714d7a3a807c41a217a8cdd53ee1c7584c9086a

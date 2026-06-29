@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0148/chant/v1/juan/5
+seq: 5
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 第五章上士聞道勤能行於其中中士聞道若存若亡下士聞道大笑之弗大笑不足以為道矣是以建言有之明道如悖遲夷如類進道若退上德如谷大白如辱廣德如不足建德如偷質真如渝遲大方亡隅大器曼成大音希聲天象亡形道善始且善成
+  hash: sha256:2aae2a2c2b0fefd438a2a568a99c567a653955b582f408979888aa4163ca071f
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0148_CHANT_005-1a.1-h}
+metadata:
+  title: 老子乙本
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0148.xml
+hash: sha256:9df22cec3fedbe606340cf8227a456a8f32a0e202bf7d30559b4b47700f7c0d6

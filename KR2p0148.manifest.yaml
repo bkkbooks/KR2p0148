@@ -1,0 +1,115 @@
+canonical_identifier: bkk:krp/KR2p0148/v1
+canonical_location: https://kanripo.org/bkk/KR2p0148/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 老子乙本
+  identifiers:
+    krp: KR2p0148
+  tags:
+    kr-categories: KR2p
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0148.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR2p0148_001.yaml, hash: 'sha256:b5d4ce74e3a1bdd15f4dba1b51cf4e56acfab96aee6e6d038a16c848dc2f4dc4'}
+  - {seq: 2, filename: KR2p0148_002.yaml, hash: 'sha256:a2a4858475c7dcd7e85d2ffd7d0a01b91d18ac13da455be1c36505c300fa632f'}
+  - {seq: 3, filename: KR2p0148_003.yaml, hash: 'sha256:81f58370f28a1f1bf08c067d6e44fe78290e0f2f574bc11d2c058e1e00a4dc3f'}
+  - {seq: 4, filename: KR2p0148_004.yaml, hash: 'sha256:720ce5f21758ba1863710fc40a210e815d4fe7b760d3d36c0ebece4f767332ac'}
+  - {seq: 5, filename: KR2p0148_005.yaml, hash: 'sha256:9df22cec3fedbe606340cf8227a456a8f32a0e202bf7d30559b4b47700f7c0d6'}
+  - {seq: 6, filename: KR2p0148_006.yaml, hash: 'sha256:6f22f2f774e89e8b549c3bbc06ea6ca563dacd25822fe4732b02b72ad9db9c45'}
+  - {seq: 7, filename: KR2p0148_007.yaml, hash: 'sha256:61ed9863ac5f8b9b4f2fa89fdefbae7a3095dd87ebe8aa82f7d9579f2a55a897'}
+  - {seq: 8, filename: KR2p0148_008.yaml, hash: 'sha256:5caf1ee024e6fafb6055345b22cb292d66a4495f122dd1e9f127c040c33a2338'}
+  markers:
+  - {seq: 3, role: markers, filename: assets/KR2p0148_003.markers.yaml, hash: 'sha256:97253ddf23fba7fd33ce2b73c43fad0ecaad01f7d6aac43be2d3b6c08e0d1a93'}
+  - {seq: 6, role: markers, filename: assets/KR2p0148_006.markers.yaml, hash: 'sha256:8b9204da4fc15c843b4322934c0c9db475c767f2613335f9a20556eb09f279c2'}
+  - {seq: 7, role: markers, filename: assets/KR2p0148_007.markers.yaml, hash: 'sha256:d46ae559f1deef1fb09390a8bf00cef063818e695ade58ea71c9d4b4a0ffe413'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR2p0148_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 69
+  label: 第一章
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR2p0148_CHANT_002-1a.1-h
+    span:
+    - body
+    - 0
+    - 28
+  label: 第二章
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR2p0148_CHANT_003-1a.1-h
+    span:
+    - body
+    - 0
+    - 32
+  label: 第三章
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR2p0148_CHANT_004-1a.1-h
+    span:
+    - body
+    - 0
+    - 89
+  label: 第四章
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR2p0148_CHANT_005-1a.1-h
+    span:
+    - body
+    - 0
+    - 99
+  label: 第五章
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR2p0148_CHANT_006-1a.1-h
+    span:
+    - body
+    - 0
+    - 23
+  label: 第六章
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR2p0148_CHANT_007-1a.1-h
+    span:
+    - body
+    - 0
+    - 43
+  label: 第七章
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR2p0148_CHANT_008-1a.1-h
+    span:
+    - body
+    - 0
+    - 90
+  label: 第八章
+  type: section
+  level: 1
+hash: sha256:9df69bde81ef09a4816e5b3e5c8e53f4010d4eac9c1cc9c695cefd0e441d6a5d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
