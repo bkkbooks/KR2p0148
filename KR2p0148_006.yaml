@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 第六章閉其門塞其兌終身不痗啟其兌賽其事終身不治
-  hash: sha256:b04da845c65158dfb54c684962c65f806bc11c31d544bd09d2e057066dbbfdb0
+  text: 第六章閉其門塞其兌終身不痗啓其兌賽其事終身不治
+  hash: sha256:326738292edd2b3cb2307e57d48342d7c89ac983f80d12ee795b299d019ffd1d
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR2p0148_CHANT_006-1a.1-h}
 metadata:
@@ -15,4 +15,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR2p0148.xml
-hash: sha256:4b0fd857367f3b32115902add638afc2492070e0d51f04ab07035c180ab8d987
+hash: sha256:6f22f2f774e89e8b549c3bbc06ea6ca563dacd25822fe4732b02b72ad9db9c45
